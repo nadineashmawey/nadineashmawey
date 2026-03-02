@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Nadine Ashmawey, a first-year Computer Science student with a passion for technology and creativity. For the past 4 years, I’ve been teaching robotics and programming to kids aged 8 to 12.I’m proficient in C++, Python, and Arduino C, and I’m currently expanding my skills by learning UI/UX design.Beyond coding, I’m deeply passionate about graphic design and work as a freelancer to bring creative ideas to life.
+Hi, I’m Nadine Ashmawey, a second-year Computer Science student with a passion for technology and creativity. For the past 4 years, I’ve been teaching robotics and programming to kids aged 8 to 12.I’m proficient in C++, Python, Arduino C, HTML,CSS, Java,SQL,JavaScript and I’m currently expanding my skills by learning UI/UX design.Beyond coding, I’m deeply passionate about graphic design and work as a freelancer to bring creative ideas to life.
 
 
 ## 🌐 Socials:
