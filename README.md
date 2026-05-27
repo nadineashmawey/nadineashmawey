@@ -71,16 +71,3 @@ Computer Science Student • Robotics Instructor • Graphic Designer
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadineashmawey&theme=tokyonight&hide_border=true&layout=compact"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nadineashmawey&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-</p>
-
----
-
-## ✨ Fun Fact
-
-I love combining technology + creativity to build experiences that are both functional and visually engaging 🎮✨
