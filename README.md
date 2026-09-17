@@ -11,7 +11,7 @@ Computer Science Student • Robotics Instructor • Graphic Designer
 
 ## 💫 About Me
 
-🎓 Second-year Computer Science student  
+🎓 Third-year Computer Science student  
 🤖 Robotics & Programming Instructor for kids aged 8–12  
 🎨 Freelance Graphic Designer passionate about creativity and branding  
 💻 Currently learning UI/UX Design and improving frontend development skills  
